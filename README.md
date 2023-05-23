@@ -1,6 +1,6 @@
 ---
 
-# Clinical Camel (Delta Weights)
+# Clinical Camel 
 
 ## Model Description
 
