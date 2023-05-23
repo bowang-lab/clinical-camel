@@ -29,7 +29,7 @@ The model was trained for 2 epochs. The specific training parameters and configu
 
 | **Parameter** | **Value** |
 |:-------------:|:---------:|
-| Learning Rate  | $2E-5 |
+| Learning Rate  | 2E-5 |
 | Batch Size  | 4 |
 | Epochs  | 2 |
 | Optimizer | AdamW (Torch) |
@@ -68,6 +68,11 @@ Clinical Camel shows competitive performance in multi-step management problems.
 ## Publication
 
 The work related to the Clinical Camel model has been published in [arXiv](https://arxiv.org/abs/2305.12031). Feel free to check out the paper for a more comprehensive understanding of the model and its performance.
+
+## Future Updates
+
+We are in the process of preparing the remainder of the code used in this project for publication. Please check back in the near future for additional updates and resources. Your patience is appreciated as we work to provide a comprehensive and usable repository.
+
 
 ## License
 This project is licensed under AGPL-3.0. Please see the [LICENSE](https://github.com/bowang-lab/clinical-camel/blob/main/LICENSE) file for more details.
