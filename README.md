@@ -1,6 +1,9 @@
 ---
 
 # Clinical Camel 
+## ⚠️ Upcoming Code Release ⚠️
+
+The codebase related to model inference, training, evaluation, and DBKE is under preparation and will be released soon. Please stay tuned for updates!
 
 ## Model Description
 
