@@ -1,5 +1,3 @@
-Sure, here is the updated readme:
-
 ---
 
 # Clinical Camel (Delta Weights)
@@ -64,9 +62,7 @@ Clinical Camel shows competitive performance in multi-step management problems.
 
 | | GPT-3.5 (%) | Clinical Camel (%) | Chat Doctor (%) | PMC-LLaMA | MedAlpaca 13b (%) | Vicuna (%) |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| CFPC EM | 81.3 | 74
-
-.9 | 53.2 | 13.9 | 31.2 | 68.6 |
+| CFPC EM | 81.3 | 74.9 | 53.2 | 13.9 | 31.2 | 68.6 |
 | CFPC FM | 85.0 | 82.1 | 67.0 | 14.3 | 44.7 | 74.8 |
 
 ## Publication
