@@ -1,0 +1,6 @@
+{"reviewer_id": "gpt-4-0328-s1", "prompt_id": 1, "metadata": {"temperature": 0.2, "max_tokens": 1024}, "description": "GPT-4 for step one questions", "category": "one"}
+{"reviewer_id": "gpt-4-0328-s2", "prompt_id": 2, "metadata": {"temperature": 0.2, "max_tokens": 1024}, "description": "GPT-4 for step two questions", "category": "two"}
+{"reviewer_id": "gpt-4-0328-s3", "prompt_id": 3, "metadata": {"temperature": 0.2, "max_tokens": 1024}, "description": "GPT-4 for step three questions", "category": "three"}
+{"reviewer_id": "gpt-4-0328-fm", "prompt_id": 4, "metadata": {"temperature": 0.2, "max_tokens": 1024}, "description": "GPT-4 for CFPC-FM questions", "category": "fm"}
+{"reviewer_id": "gpt-4-0328-em", "prompt_id": 5, "metadata": {"temperature": 0.2, "max_tokens": 1024}, "description": "GPT-4 for CFPC-EM questions", "category": "em"}
+{"reviewer_id": "gpt-4-0328-align", "prompt_id": 6, "metadata": {"temperature": 0.2, "max_tokens": 1024}, "description": "GPT-4 for safety alignment questions", "category": "align"}
